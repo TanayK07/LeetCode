@@ -1,15 +1,13 @@
 class Solution {
 public:
     bool isAlienSorted(vector<string>& words, string order) {
-        int mp[26];
-        int n=order.length();
-        for (int i=0;i<n;i++)
-            mp[order[i]-'a']=i;
-            for (string &w : words)
-            for (char &c : w)
-            c=mp[c-'a'];
-            return is_sorted(words.begin(),words.end());
-        
+        unordered_map<char, char> mp;
+
+      	for(int i = 0; i < size(order); i++)
+           mp[order[i]] = i + 'a';  
+	        for(auto& word : words)
+		for(auto& c : word) c = mp[c];
+	    return is_sorted(begin(words), end(words));
     }
         
     
