@@ -1,12 +1,22 @@
 class Solution {
 public:
     int kthGrammar(int n, int k) {
-      //  bool f=1;
-        if (n==1 || n==0 ) return 0;
-          int pre = kthGrammar(n - 1, (k + 1) / 2);
-                  return abs((k & 1) + pre - 1);
-
-    }
-
+        //base condition
+        if(n == 1 && k == 1)
+            return 0;
         
+        //length of the row
+        int lengthOfRow = pow(2, n-1);
+        //calculating the mid
+        int mid = lengthOfRow/2;
+        
+        //if k belongs to the first half
+        if(k <= mid){
+            return kthGrammar(n-1, k);
+        }
+        //if k belongs to the second half
+        else{
+            return !(kthGrammar(n-1, k-mid));
+        }
+    }
 };
