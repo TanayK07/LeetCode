@@ -18,21 +18,28 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/TanayK07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanayK07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TanayK07/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/TanayK07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TanayK07/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/TanayK07/LeetCode/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TanayK07/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
