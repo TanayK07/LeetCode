@@ -9,6 +9,7 @@
 # String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/TanayK07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/TanayK07/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/TanayK07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanayK07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -24,6 +25,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/TanayK07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/TanayK07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanayK07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -34,6 +36,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/TanayK07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanayK07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
