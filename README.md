@@ -19,6 +19,7 @@
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/TanayK07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/TanayK07/LeetCode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -31,6 +32,7 @@
 | [0076-minimum-window-substring](https://github.com/TanayK07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/TanayK07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanayK07/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/TanayK07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/TanayK07/LeetCode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -57,10 +59,12 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/TanayK07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 # Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/TanayK07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TanayK07/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting
 |  |
