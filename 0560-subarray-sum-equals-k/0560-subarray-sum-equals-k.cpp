@@ -4,9 +4,11 @@ public:
         map<int,int> mp;
         int c=0,pre=0;
         int n=nums.size();
-        mp[0]=1;
         for(int i=0;i<n;i++){
+            // if(pre==k) c++;
             pre+=nums[i];
+                        if(pre==k) c++;
+
             int rem=pre-k;
             c+=mp[rem];
             mp[pre]+=1;
