@@ -34,6 +34,7 @@
 | [1137-height-checker](https://github.com/TanayK07/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/TanayK07/LeetCode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TanayK07/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TanayK07/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/TanayK07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/TanayK07/LeetCode/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TanayK07/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TanayK07/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Prefix Sum
 |  |
@@ -91,6 +93,7 @@
 | [0876-hand-of-straights](https://github.com/TanayK07/LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/TanayK07/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/TanayK07/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TanayK07/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
