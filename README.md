@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/TanayK07/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/TanayK07/LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/TanayK07/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TanayK07/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TanayK07/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/TanayK07/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TanayK07/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting
 |  |
@@ -103,3 +105,7 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/TanayK07/LeetCode/tree/master/0648-replace-words) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/TanayK07/LeetCode/tree/master/0633-sum-of-square-numbers) |
