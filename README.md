@@ -26,6 +26,7 @@
 | [0523-continuous-subarray-sum](https://github.com/TanayK07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TanayK07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/TanayK07/LeetCode/tree/master/0648-replace-words) |
+| [0792-binary-search](https://github.com/TanayK07/LeetCode/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/TanayK07/LeetCode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/TanayK07/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/TanayK07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -109,3 +110,4 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/TanayK07/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/TanayK07/LeetCode/tree/master/0792-binary-search) |
