@@ -148,6 +148,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanayK07/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TanayK07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +161,16 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanayK07/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
