@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanayK07/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanayK07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanayK07/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TanayK07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanayK07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
