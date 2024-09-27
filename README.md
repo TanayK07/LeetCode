@@ -178,6 +178,7 @@
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/TanayK07/LeetCode/tree/master/0482-license-key-formatting) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
