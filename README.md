@@ -149,6 +149,7 @@
 | [0001-two-sum](https://github.com/TanayK07/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanayK07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanayK07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanayK07/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TanayK07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
@@ -188,4 +189,17 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanayK07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanayK07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
