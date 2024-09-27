@@ -151,6 +151,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanayK07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanayK07/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TanayK07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
@@ -171,11 +172,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/TanayK07/LeetCode/tree/master/0001-two-sum) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
