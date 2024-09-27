@@ -148,6 +148,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TanayK07/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanayK07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/TanayK07/LeetCode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanayK07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -183,6 +184,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/TanayK07/LeetCode/tree/master/0056-merge-intervals) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
