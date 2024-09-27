@@ -140,6 +140,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/TanayK07/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TanayK07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/TanayK07/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0482-license-key-formatting](https://github.com/TanayK07/LeetCode/tree/master/0482-license-key-formatting) |
+| [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
@@ -217,4 +219,12 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
