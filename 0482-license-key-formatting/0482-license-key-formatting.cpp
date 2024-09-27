@@ -2,31 +2,22 @@ class Solution {
 public:
     string licenseKeyFormatting(string s, int k) {
         int n = s.length();
-        string s2="", s4="";
-        int c=0;
-        for (int i = 0; i < n; i++) {
+        for (int i = n-1; i >= 0; i--) {
             if (s[i] == '-') {
-                continue;
+                s.erase(i, 1);
             }
-            if (s[i] >= 'a' && s[i] <= 'z') s2 += s[i] - 32;
-            else s2 += s[i];
-        }
+            if (s[i]>='a' && s[i]<='z') s[i]=s[i]-32;
 
-        int n1 = s2.length();
-        int rem = n1 % k;
-        
-        if (rem > 0) {
-            s4 += s2.substr(0, rem);
         }
-        // for (int i=n1;i
+        cout <<"erased"<<s<<endl;
+                int n1 = s.length();
 
-        for (int i = rem; i < n1; i += k) {
-            if (!s4.empty()) {
-                s4 += "-";
-            }
-            s4 += s2.substr(i, k);
+        for (int i = n1 - k; i > 0; i-=k) {
+            cout <<i<<endl;
+                auto it = s.insert(s.begin() + i, '-');
         }
+        // transform(s.begin(), s.end(), s.begin(), ::toupper); 
 
-        return s4;
+        return s;
     }
 };
