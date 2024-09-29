@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanayK07/LeetCode/tree/master/0001-two-sum) |
+| [0432-all-oone-data-structure](https://github.com/TanayK07/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
@@ -203,6 +204,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/TanayK07/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
@@ -227,4 +229,12 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/TanayK07/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/TanayK07/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
