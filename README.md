@@ -191,6 +191,7 @@
 | [0482-license-key-formatting](https://github.com/TanayK07/LeetCode/tree/master/0482-license-key-formatting) |
 | [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanayK07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanayK07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanayK07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
