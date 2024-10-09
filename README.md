@@ -151,6 +151,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TanayK07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/TanayK07/LeetCode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanayK07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -171,6 +172,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanayK07/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
@@ -247,4 +249,16 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/TanayK07/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
