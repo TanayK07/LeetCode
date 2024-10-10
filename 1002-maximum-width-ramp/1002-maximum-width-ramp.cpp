@@ -2,28 +2,33 @@ class Solution {
 public:
     int maxWidthRamp(vector<int>& nums) {
         int n = nums.size();
-        vector<int> in(n);
-        
-        for (int i = 0; i < n; ++i) {
-            in[i] = i;
+        vector<int> mins(n),maxi(n);
+        int first=nums[0],last=nums[n-1];
+        mins[0] = first;
+        for (int i = 1; i < n; ++i) {
+            mins[i] = min(mins[i - 1], nums[i]);
         }
-          for(auto i: in) cout <<i<< " ";
+        for (auto i : mins) cout << i<< " "; 
         cout <<endl;
 
-        sort(in.begin(), in.end(), [&](int a, int b) {
-            return nums[a] < nums[b] || nums[a]==nums[b] && b>a  ;
-        });
+        maxi[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; --i) {
+            maxi[i] = max(maxi[i + 1], nums[i]);
+        }
+        for (auto i : maxi) cout << i<< " ";
+                cout <<endl;
 
-        for(auto i: in) cout <<i<< " ";
-        cout <<endl;
 
-        int l = 0,r=in[0];
 
-        for (int j = 1; j < n; ++j) {
-            l = max(l, in[j] - r);
-            r = min(r, in[j]);
+        int i= 0, j = 0, res = 0;
+        while (i < n && j < n) {
+            if (mins[i] <= maxi[j]) {
+                res = max(res, j - i);
+                j++;
+            }
+             else  i++;
         }
 
-        return l;
+        return res;
     }
 };
