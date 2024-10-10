@@ -7,18 +7,23 @@ public:
         for (int i = 0; i < n; ++i) {
             in[i] = i;
         }
+          for(auto i: in) cout <<i<< " ";
+        cout <<endl;
 
         sort(in.begin(), in.end(), [&](int a, int b) {
-            return nums[a] < nums[b] || (nums[a] == nums[b] && a < b);
+            return nums[a] < nums[b] || nums[a]==nums[b] && b>a  ;
         });
 
-        int maxi = 0,mini=in[0];
+        for(auto i: in) cout <<i<< " ";
+        cout <<endl;
 
-        for (int i = 1; i < n; ++i) {
-            maxi = max(maxi, in[i] - mini);
-            mini = min(mini, in[i]);
+        int l = 0,r=in[0];
+
+        for (int j = 1; j < n; ++j) {
+            l = max(l, in[j] - r);
+            r = min(r, in[j]);
         }
 
-        return maxi;
+        return l;
     }
 };
