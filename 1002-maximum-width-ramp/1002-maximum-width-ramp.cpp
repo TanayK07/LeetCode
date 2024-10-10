@@ -15,8 +15,8 @@ public:
         for (int i = n - 2; i >= 0; --i) {
             maxi[i] = max(maxi[i + 1], nums[i]);
         }
-        for (auto i : maxi) cout << i<< " ";
-                cout <<endl;
+        // for (auto i : maxi) cout << i<< " ";
+        //         cout <<endl;
 
 
 
