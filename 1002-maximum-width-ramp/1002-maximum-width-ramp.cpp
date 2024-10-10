@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxWidthRamp(vector<int>& nums) {
         int n = nums.size();
-        vector<int> mins(n),maxi(n);
+        vector<int> maxi(n);
         // int first=nums[0],last=nums[n-1];
         // mins[0] = first;
         // for (int i = 1; i < n; ++i) {
