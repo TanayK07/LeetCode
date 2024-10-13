@@ -154,6 +154,7 @@
 | [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/TanayK07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TanayK07/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/TanayK07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanayK07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanayK07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/TanayK07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Design
@@ -281,6 +283,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/TanayK07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TanayK07/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/TanayK07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
