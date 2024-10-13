@@ -154,6 +154,7 @@
 | [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/TanayK07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TanayK07/LeetCode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -280,4 +281,9 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/TanayK07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TanayK07/LeetCode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
