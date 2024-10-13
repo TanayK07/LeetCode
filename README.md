@@ -152,6 +152,7 @@
 | [0056-merge-intervals](https://github.com/TanayK07/LeetCode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanayK07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/TanayK07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/TanayK07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TanayK07/LeetCode/tree/master/0198-house-robber) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -277,5 +278,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/TanayK07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TanayK07/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
