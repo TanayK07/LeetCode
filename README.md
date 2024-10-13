@@ -165,6 +165,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/TanayK07/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TanayK07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TanayK07/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TanayK07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
@@ -189,6 +190,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanayK07/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/TanayK07/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TanayK07/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TanayK07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TanayK07/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
