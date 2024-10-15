@@ -157,6 +157,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/TanayK07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/TanayK07/LeetCode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/TanayK07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TanayK07/LeetCode/tree/master/0001-two-sum) |
 | [0432-all-oone-data-structure](https://github.com/TanayK07/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/TanayK07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanayK07/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -240,6 +242,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/TanayK07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/TanayK07/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/TanayK07/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
