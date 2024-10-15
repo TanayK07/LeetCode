@@ -157,6 +157,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/TanayK07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/TanayK07/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/TanayK07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/TanayK07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/TanayK07/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/TanayK07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/TanayK07/LeetCode/tree/master/0729-my-calendar-i) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TanayK07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/TanayK07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/TanayK07/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanayK07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/TanayK07/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -290,6 +292,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TanayK07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/TanayK07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/TanayK07/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Dynamic Programming
 |  |
