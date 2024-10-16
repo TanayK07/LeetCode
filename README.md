@@ -208,6 +208,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanayK07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1304-longest-happy-string](https://github.com/TanayK07/LeetCode/tree/master/1304-longest-happy-string) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanayK07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/TanayK07/LeetCode/tree/master/1304-longest-happy-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanayK07/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/TanayK07/LeetCode/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
