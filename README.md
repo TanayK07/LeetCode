@@ -212,6 +212,7 @@
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1304-longest-happy-string](https://github.com/TanayK07/LeetCode/tree/master/1304-longest-happy-string) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
+| [2580-circular-sentence](https://github.com/TanayK07/LeetCode/tree/master/2580-circular-sentence) |
 ## Sorting
 |  |
 | ------- |
