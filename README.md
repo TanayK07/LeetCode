@@ -198,6 +198,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/TanayK07/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanayK07/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/TanayK07/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/TanayK07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TanayK07/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TanayK07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -211,6 +212,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanayK07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1304-longest-happy-string](https://github.com/TanayK07/LeetCode/tree/master/1304-longest-happy-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/TanayK07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2502-sort-the-people](https://github.com/TanayK07/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/TanayK07/LeetCode/tree/master/2580-circular-sentence) |
 ## Sorting
@@ -224,6 +226,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanayK07/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/TanayK07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
