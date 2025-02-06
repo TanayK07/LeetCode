@@ -165,6 +165,7 @@
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1002-maximum-width-ramp](https://github.com/TanayK07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanayK07/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1364-tuple-with-same-product](https://github.com/TanayK07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanayK07/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanayK07/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/TanayK07/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -196,6 +197,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/TanayK07/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanayK07/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1364-tuple-with-same-product](https://github.com/TanayK07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanayK07/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/TanayK07/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/TanayK07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanayK07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/TanayK07/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanayK07/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/TanayK07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Search
